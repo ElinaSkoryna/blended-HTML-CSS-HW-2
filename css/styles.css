@@ -1,0 +1,104 @@
+ body {
+    font-family: "Poppins", sans-serif;
+ }
+
+
+ h1,
+ h2,
+ h3,
+ h4,
+ h5,
+ h6,
+ p {
+     margin-top: 0;
+     margin-bottom: 0;
+ }
+
+ ul,
+ ol {
+     margin: 0;
+     padding: 0;
+     list-style: none;
+ }
+
+ a {
+     text-decoration: none;
+ }
+
+ button {
+     font-family: inherit;
+     cursor: pointer;
+     border: none;
+ }
+
+ img {
+     display: block;
+     height: auto;
+ }
+ 
+ .conteiner {
+    width: 1150px;
+    padding: 0 20px;
+    margin: 0 auto;
+ }
+ 
+ 
+ 
+ .header {}
+
+ .header-nav {}
+
+ .header-nav-link-logo {}
+
+ .header-nav-img {}
+
+ .header-nav-list {}
+
+ .header-nav-item {}
+
+ .header-nav-product {}
+
+ .header-nav-pricing {}
+
+ .header-nav-customers {}
+
+ .header-nav-resources {}
+
+ .header-list-button {}
+
+ .header-item-button {}
+
+ /* Hero section 1 */
+
+ .hero {
+    
+ }
+
+ .conteiner {}
+
+.conteiner-hero {
+display: flex;
+}
+
+ .hero-title {
+
+ }
+ .hero-one {
+ 
+ }
+
+ .hero-text {}
+
+ .hero-img {
+    
+ }
+
+ .hero-list {}
+
+ .hero-item {}
+
+ .hero-btn-started {}
+
+ .hero-btn-video {}
+
+
